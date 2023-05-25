@@ -1,0 +1,27 @@
+.HomePage {
+    .app-name {
+        font-size: 3rem;
+        margin: 30px auto;
+        margin-bottom: 10px;
+        text-align: center;
+
+    }
+    .team-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 40px;
+        grid-row-gap: 20px;
+    }
+    
+
+      
+}
+
+.bg{
+    background-color: rgba(0, 0, 0, 0.6); // Задаем прозрачный цвет фона
+    border-radius: 15px;
+    margin: 0;
+    width: 100%;
+    padding: 2% 15%;
+
+}

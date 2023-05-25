@@ -1,0 +1,14 @@
+.App {
+  padding: 10px 0px;
+  text-align: left;
+}
+
+// .won-card {
+//   background-color: #4da375;
+// }
+
+.lost-card, .won-card {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  padding: 10px 25px;
+}

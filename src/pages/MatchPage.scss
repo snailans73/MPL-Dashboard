@@ -1,0 +1,17 @@
+.MatchPage {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-column-gap: 20px;
+
+    .year-selector {
+        justify-self: end;
+        padding: 20px 30px;
+        background-color: rgba(0, 0, 0, 0.8); // Задаем прозрачный цвет фона
+        border-radius: 10px;
+        height: 10%;
+    }
+
+    .page-heading {
+        margin: 20px auto;
+    }
+}
