@@ -4,7 +4,7 @@
 ## About
 Browse your  MPL teams and access their past games details, wins and losses ratios - accessible by team and tournament year.
 
-This is a companion project for the Java Brains course on Full Stack Development using Spring Boot and React JS.
+This is a companion project of the KTU Manas from MYO students on Full Stack Development using Spring Boot and React JS.
 
 
 
